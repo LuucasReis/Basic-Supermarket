@@ -17,7 +17,8 @@ This project will simulate a shopping in a supermarket "store". The idea of this
       - When you're pricing the product, don't forget that a float in python uses ".", not a ",".
       - I got a problem with the sintax of the products (help haha), so when you're get to the part of choose your products
         don't forget to write the name as it is in the menu or the way you put it (for new products).
-
+      - if you're using as study tool, try to understand all the function and loops that i apply and why i did it... And to make it 
+        more useful, play with the code, make some changes, feel free to do whatever you're want haha 
 
 
 
