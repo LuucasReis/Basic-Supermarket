@@ -15,7 +15,7 @@ This project will simulate a shopping in a supermarket "store". The idea of this
 
 # OBS:
       - When you're pricing the product, don't forget that a float in python uses ".", not a ",".
-      - I got a problem with the sintax of the products (help haha), so when get to the part of choose your products
+      - I got a problem with the sintax of the products (help haha), so when you're get to the part of choose your products
         don't forget to write the name as it is in the menu or the way you put it (for new products).
 
 
