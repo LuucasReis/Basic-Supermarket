@@ -10,7 +10,7 @@ This project will simulate a shopping in a supermarket "store". The idea of this
 ![8d8c95e0-9acd-4e83-ab36-e605ae252a86](https://user-images.githubusercontent.com/102496835/161404239-eb584e55-e4e3-4ad9-a548-9a81064182b7.jpg)
 1.1 I already created a list of products, in case of your goal is to study the code or just to see how the project works
 
-1.2 If you're wanted to increase more products, just remove the # from these 6 lines:
+1.2 If you're wanted to increase more products, just remove the "#" from these 6 lines:
 ![pt2](https://user-images.githubusercontent.com/102496835/161404673-3d70500d-6f98-4984-bb5e-7f9808a9d198.jpg)
 
 # OBS:
